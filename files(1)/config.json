@@ -1,0 +1,11 @@
+{
+  "hydrus_api_url": "http://127.0.0.1:45869",
+  "hydrus_api_key": "",
+  "tag_service_name": "my tags",
+  "search_tags": [
+    "system:everything"
+  ],
+  "local_api_host": "127.0.0.1",
+  "local_api_port": 9876,
+  "start_fullscreen": false
+}
